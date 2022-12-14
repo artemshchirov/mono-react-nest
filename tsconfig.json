@@ -12,6 +12,7 @@
     "baseUrl": "./",
     "rootDir": "./src",
     "incremental": true,
+    "jsx": "react",
     "skipLibCheck": true,
     "strictNullChecks": false,
     "noImplicitAny": false,
