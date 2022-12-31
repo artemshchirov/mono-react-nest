@@ -19,7 +19,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "react-nestjs",
+    "name": "mono-react-nest-nginx",
     "version": "0.0.1",
     "description": "",
     "author": "",
